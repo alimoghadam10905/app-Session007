@@ -1,0 +1,15 @@
+.HeaderNavigation_navGroup{
+    position: relative;
+}
+
+.HeaderNavigation_navGroup::before{
+    content: "";
+    width: 1px;
+    background-color: #e0e0e2;
+    height: 16px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    top: 50%;
+    position: absolute;
+    right: 0;
+}

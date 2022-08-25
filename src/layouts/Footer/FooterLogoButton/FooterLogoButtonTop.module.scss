@@ -1,0 +1,18 @@
+.logoFooter{
+    margin: 0;
+    height: 40px;
+}
+.logoFooter img{
+    width: 100%;
+    object-fit: contain;
+    height: 100%;
+}
+.buttonTop button{
+    border: 1px solid #e0e0e2;
+    border-radius: 8px;
+    padding: 7px 15px;
+    background: #fff;
+    font-family: 'IRANSans';
+    color: #a1a3a8;
+    cursor: pointer;
+}
